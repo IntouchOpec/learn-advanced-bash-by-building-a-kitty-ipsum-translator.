@@ -252,3 +252,4 @@ clear
 __vsc_prompt_cmd_original
 ./translate.sh kitty_ipsum_1.txt
 ./translate.sh kitty_ipsum_1.txt
+./translate.sh kitty_ipsum_1.txt
