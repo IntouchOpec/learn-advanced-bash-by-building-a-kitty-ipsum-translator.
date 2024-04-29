@@ -49,3 +49,4 @@ echo opec
 echo $NAME
 cat
 cat name.txt
+cat < name.txt
