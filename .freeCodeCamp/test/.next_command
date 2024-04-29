@@ -54,3 +54,5 @@ echo cat
 echo name.txt
 echo opec
 touch script.sh
+chmod +x
+chmod +x script.sh
