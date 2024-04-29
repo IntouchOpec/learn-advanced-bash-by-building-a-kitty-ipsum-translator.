@@ -219,3 +219,6 @@ chmod +x translate.sh
 __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 cat stdin.txt
+./translate.sh
+./translate.sh
+./translate.sh kitty_ipsum_1.txt
