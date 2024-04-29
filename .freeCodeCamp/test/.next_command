@@ -102,3 +102,5 @@ grep --color 'meow' kitty_ipsum_1.txt
 man grep
 grep --color 'meow' kitty_ipsum_1.txt -n
 grep --color 'meow[a-z]*' kitty_ipsum_1.txt -n
+__vsc_prompt_cmd_original
+echo -e "\nNumber of times meow or meowzer appears:" >> kitty_info.txt
