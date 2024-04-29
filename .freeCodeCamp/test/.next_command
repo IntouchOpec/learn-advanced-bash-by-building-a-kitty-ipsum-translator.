@@ -48,3 +48,4 @@ echo $NAME
 echo opec
 echo $NAME
 cat
+cat name.txt
