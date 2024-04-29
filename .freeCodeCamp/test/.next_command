@@ -65,3 +65,4 @@ echo opec
 echo opec
 echo opec
 ./script.sh < name.txt
+./script.sh < name.txt 2> stderr.txt
