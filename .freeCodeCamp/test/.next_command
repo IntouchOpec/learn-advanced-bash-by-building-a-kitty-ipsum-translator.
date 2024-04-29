@@ -56,3 +56,7 @@ echo opec
 touch script.sh
 chmod +x
 chmod +x script.sh
+echo
+echo
+echo
+echo
