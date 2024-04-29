@@ -31,3 +31,4 @@ __vsc_prompt_cmd_original
 > stdout.txt
 bad_command
 bad_command > stderr.txt
+bad_command 2> stderr.txt
