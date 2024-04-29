@@ -266,3 +266,12 @@ diff kitty_ipsum_2.txt doggy_ipsum_2.txt
 cat doggy_ipsum_2.txt
 diff kitty_ipsum_2.txt doggy_ipsum_2.txt
 diff kitty_ipsum_2.txt doggy_ipsum_2.txt --color
+git status
+git remote
+git remote-url
+git remote --help
+git remote -v
+git remote add origin2 https://github.com/IntouchOpec/learn-advanced-bash-by-building-a-kitty-ipsum-translator.git
+git checkout master
+git checkout -b master
+git add .
