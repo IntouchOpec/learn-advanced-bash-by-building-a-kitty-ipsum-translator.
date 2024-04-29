@@ -113,3 +113,4 @@ man grep
 grep -o 'meow[a-z]*' kitty_ipsum_1.txt >> kitty_info.txt
 grep -o 'meow[a-z]*' kitty_ipsum_1.txt
 grep -o 'meow[a-z]*' kitty_ipsum_1.txt
+echo -e "\nLines that they appear on:" >> kitty_info.txt
