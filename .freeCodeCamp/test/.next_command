@@ -64,3 +64,4 @@ echo
 echo opec
 echo opec
 echo opec
+./script.sh < name.txt
